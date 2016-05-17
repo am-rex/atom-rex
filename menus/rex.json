@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Rex:Jump to define",
+        "command": "rex:jumpDefine"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Rex",
+          "submenu": [
+            {
+              "label": "Rex:Jump to define",
+              "command": "rex:jumpDefine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
