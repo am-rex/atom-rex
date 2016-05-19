@@ -1,6 +1,5 @@
 {
     "atom-text-editor": {
-        "f12": "rex:jumpDefine",
-        "escape": "rex:closePanel"
+        "f12": "rex:jumpDefine"
     }
 }
