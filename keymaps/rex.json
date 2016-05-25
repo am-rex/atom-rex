@@ -1,5 +1,7 @@
 {
     "atom-text-editor": {
-        "f12": "rex:jumpDefine"
+        "f12": "rex:jumpDefine",
+        "alt-left": "rex:jumpBack",
+        "alt-right": "rex:jumpForward"
     }
 }
