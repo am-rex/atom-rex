@@ -4,4 +4,10 @@ TEST!
 TEST2!
 TEST3!
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+MS_CAN/HS_CAN
+Baud 500000
+TQ SEG1 8
+TQ SEG2 4
+TQ Prop 7
+Sync 4
+BRP-1 1
